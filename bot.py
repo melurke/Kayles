@@ -1,4 +1,4 @@
-n = int(input("How many pins are inthe game? "))
+n = int(input("How many pins are in the game? "))
 if n % 2 == 0:
     print("Take two pins from the middle.")
 else:
